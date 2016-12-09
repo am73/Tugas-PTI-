@@ -1,6 +1,7 @@
 # Tugas-PTI-
 NAMA:Garin Revanol
 NPM:1615061019
+
 SOAL PRIBADI UTS PTI
 
 *Apa yang dimaksud dengan teknologi mmx?
